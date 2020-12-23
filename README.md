@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/zerob13?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/imwritingbugs?style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/zerob13?style=flat-square)](https://github.com/zerob13)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imwritingbugs?style=flat-square)](https://twitter.com/imwritingbugs)
 
 
 - 🔭 I’m currently working on node.js and electron.js.
