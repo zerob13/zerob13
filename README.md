@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on node.js and electron.js.
 - 🌱 I’m currently learning some serverless functions mojo :P
-- 📫 How to reach me: [zerob13@gmail.com](mailto:zerob13@gmail.com)
+- 📫 How to reach me: [i@zerob13.com](mailto:i@zerob13.com)
 - ⚡ Fun fact: I'm also a freelance photographer based in Shanghai
 
 
