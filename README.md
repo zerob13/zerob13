@@ -5,6 +5,9 @@
 <p align="center">
   <a href="https://github.com/zerob13"><img src="https://img.shields.io/github/followers/zerob13?style=flat-square&label=Follow&logo=github&logoColor=white&style=for-the-badge&color=blueviolet"/></a>
 </p>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=zerob13&theme=onedark" />
+</p>
 
 <hr style="border: none; border-top: 2px dashed #ccc; margin: 10px 0;">
 
