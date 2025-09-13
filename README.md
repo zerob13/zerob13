@@ -3,15 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zerob13"><img src="https://img.shields.io/github/followers/zerob13?style=flat-square&label=Follow&logo=github&logoColor=white&style=for-the-badge&color=blueviolet"/></a>
-</p>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=zerob13&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zerob13&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerob13&layout=compact&theme=radical"/>
 </p>
 
 <hr style="border: none; border-top: 2px dashed #ccc; margin: 10px 0;">
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;" align="center">
   <tr>
     <td style="width: 50%; padding-right: 20px; vertical-align: top;">
       <h3 style="margin-top: 0; margin-bottom: 5px;">👨‍💻 Code & Projects</h3>
