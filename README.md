@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zerob13&count_private=true&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerob13&layout=compact&theme=radical"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zerob13&theme=rogue" />
 </p>
 
 <hr style="border: none; border-top: 2px dashed #ccc; margin: 10px 0;">
